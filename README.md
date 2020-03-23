@@ -7,7 +7,8 @@ flipr hackathon challenge
 - ./src/
   - two notebooks corresponding to each task 
 - ./predictions/
-  - two .csv files contained the predicted values for the test dataset
+  - three .csv files containing predicted values for Infect_prob, Diuresis value on 27-03-2020 predicted by the time series model and Infect_prob on new Diuresis value(predicted by the Time series model)
+
 
 
 
