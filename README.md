@@ -11,7 +11,7 @@ flipr hackathon challenge
 - ./assets/
   - containing figures plotted in the task
 
-- ## Actual Infect_prob vs Predicted Infect_prob
+- ## Actual Infect_prob vs Predicted Infect_prob (100 samples)
 ![Actual Infect_prob vs Predicted Infect_prob](assets/actualvspredicted.svg)
 
 
