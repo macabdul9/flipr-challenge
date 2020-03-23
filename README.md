@@ -12,7 +12,7 @@ flipr hackathon challenge
   - containing figures plotted in the task
 
 - ## Actual Infect_prob vs Predicted Infect_prob
-![Actual Infect_prob vs Predicted Infect_prob](assets/ActualVsPredicted.png)
+![Actual Infect_prob vs Predicted Infect_prob](assets/actualvspredicted.svg)
 
 
 - ## Diuresis Forecasting 
