@@ -8,8 +8,15 @@ flipr hackathon challenge
   - two notebooks corresponding to each task 
 - ./predictions/
   - three .csv files containing predicted values for Infect_prob, Diuresis value on 27-03-2020 predicted by the time series model and Infect_prob on new Diuresis value(predicted by the Time series model)
+- ./assets/
+  - containing figures plotted in the task
+
+- ## Actual Infect_prob vs Predicted Infect_prob
+![Actual Infect_prob vs Predicted Infect_prob](assets/ActualVsPredicted.png)
 
 
+- ## Diuresis Forecasting 
+![Diuresis Forecasting for 27-03-2020](assets/TimeSeriesForecasting.png)
 
 
 # Flipr Hackathon Hiring Program 4.
